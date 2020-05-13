@@ -1,6 +1,6 @@
 # covid-19_wikipedia
 
-This repository contains code to replicate the analyses of the paper `COVID-19 research in Wikipedia`.
+This repository contains code to replicate the analyses of the paper `COVID-19 research in Wikipedia`. Pre-print: https://www.biorxiv.org/content/10.1101/2020.05.10.087643v1.
 
 To create the required datasets, and in particular to get [Dimensions](https://docs.dimensions.ai/dsl) and [Altmetric](https://api.altmetric.com) data, see [this repository instead](https://github.com/CWTSLeiden/cwts_covid). 
 
@@ -24,4 +24,16 @@ A dataframe containing these publications [is provided](data/df_meta.csv).
 
 ## How to cite
 
-TBD.
+```
+@article {Colavizza2020,
+    author = {Colavizza, Giovanni},
+    title = {COVID-19 research in Wikipedia},
+    elocation-id = {2020.05.10.087643},
+    year = {2020},
+    doi = {10.1101/2020.05.10.087643},
+    publisher = {Cold Spring Harbor Laboratory},
+    URL = {https://www.biorxiv.org/content/early/2020/05/12/2020.05.10.087643},
+    eprint = {https://www.biorxiv.org/content/early/2020/05/12/2020.05.10.087643.full.pdf},
+    journal = {bioRxiv}
+}
+```
