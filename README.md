@@ -10,7 +10,6 @@ We consider publications from the following sources:
 
 * [CORD19](https://pages.semanticscholar.org/coronavirus-research) 
 * [Dimensions](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=2034285255)
-* [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 
 A dataframe containing these publications [is provided](data/df_meta.csv).
 
