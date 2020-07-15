@@ -1,6 +1,6 @@
 # covid-19_wikipedia
 
-This repository contains code to replicate the analyses of the paper `COVID-19 research in Wikipedia`. Pre-print: https://www.biorxiv.org/content/10.1101/2020.05.10.087643v1.
+This repository contains code to replicate the analyses of the paper `COVID-19 research in Wikipedia`. Pre-print: https://www.biorxiv.org/content/10.1101/2020.05.10.087643v3.
 
 To create the required datasets, and in particular to get [Dimensions](https://docs.dimensions.ai/dsl) and [Altmetric](https://api.altmetric.com) data, see [this repository instead](https://github.com/CWTSLeiden/cwts_covid). 
 
